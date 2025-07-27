@@ -4,6 +4,8 @@
 
 ![MERL10N's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MERL10N&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+![MERL10N's GitHub stats](https://github-readme-stats.vercel.app/api?username=MERL10N&show_icons=true&theme=radical)
+
 
 My name is Kian Heydari Marvi and I am a current undergraduate student at UC Riverside pursuing Bachelor of Science in Computer Science.
 
