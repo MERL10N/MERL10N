@@ -1,7 +1,5 @@
 # Hello there 👋
 
-![MERL10N's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MERL10N&theme=vue-dark&hide_border=true)
-
 ![MERL10N's GitHub stats](https://github-readme-stats.vercel.app/api?username=MERL10N&show_icons=true&theme=radical)
 
 
